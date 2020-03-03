@@ -1,0 +1,3 @@
+U:/NTProfile/Desktop/cw1/cmake-build-debug/CMakeFiles/cw1.dir
+U:/NTProfile/Desktop/cw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+U:/NTProfile/Desktop/cw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\Apps\mingw-w64\i686-8.1.0-posix-dwarf\mingw32
+Options: 
+
+Options:
